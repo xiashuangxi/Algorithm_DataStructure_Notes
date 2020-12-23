@@ -18,6 +18,4 @@
 
 ## 开源协议 🔖
 
-此项目采用的是 [MIT License](https://github.com/xiashuangxi/Algorithm_DataStructure_Notes/blob/main/LICENSE)，如果有的作者添加，请在 **LICENSE**
-文件是添加个人的名称和邮箱。格式：`2020 UNAME1,UNAME2 <UMAIL>`，*年份和作者名之间有
-一个空格，多个作者名之间用 `,` 隔开，作者名与邮箱地址之间有一个空格，邮箱地址用 `<>` 包围。*
+此项目采用的是 [MIT License](https://github.com/xiashuangxi/Algorithm_DataStructure_Notes/blob/main/LICENSE)，如果有的作者添加，请在 **LICENSE**文件是添加个人的名称和邮箱。格式：`2020 UNAME1,UNAME2 <UMAIL>`，*年份和作者名之间有一个空格，多个作者名之间用 `,` 隔开，作者名与邮箱地址之间有一个空格，邮箱地址用 `<>` 包围。*
