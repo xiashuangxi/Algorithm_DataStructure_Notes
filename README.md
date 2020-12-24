@@ -18,6 +18,10 @@
 |✏️   |校对，主要是更正错别字、修改代码排版、注释等     | `:pencil2:`|
 |🐛   |修改代码中的Bug     | `:bug:`|
 
+## 代码贡献者
+
+[贡献者信息](https://github.com/xiashuangxi/Algorithm_DataStructure_Notes/blob/main/AUTHOR.md)
+
 ## 开源协议 🔖
 
 此项目采用的是 [MIT License](https://github.com/xiashuangxi/Algorithm_DataStructure_Notes/blob/main/LICENSE)。
